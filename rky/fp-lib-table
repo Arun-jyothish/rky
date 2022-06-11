@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "ESP8266 FT")(type "KiCad")(uri "/home/erk/.local/share/kicad/6.0/3rdparty/ESP8266-12E_ESP-12E")(options "")(descr ""))
+  (lib (name "push button")(type "KiCad")(uri "/home/erk/.local/share/kicad/6.0/3rdparty/tactile_switch")(options "")(descr ""))
 )

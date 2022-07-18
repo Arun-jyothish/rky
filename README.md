@@ -14,7 +14,7 @@
 * disply time 
 
 ## Features
-
+![render image 1](/home/erk/WorkSpace/kicad/ioit/rky/render/iot board render 1.png)
 ## Specifications
 * Vibrator Motor
 * LED BLINK
@@ -35,3 +35,4 @@ power-->OLED
 power-->UART
 
 ~~~
+![render image 1](/home/erk/WorkSpace/kicad/ioit/rky/render/iot board render 2.png)
